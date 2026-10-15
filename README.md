@@ -2,8 +2,6 @@
 
 Leitura pessoal. 14 de outubro de 2026.
 
-Este texto é estudo. Não é regra do Instituto Espiritual Metatron, não entra no git do projeto e não descreve o que o código faz hoje. O Instituto aparece só como cenário, porque o método fica concreto quando o exemplo é um fluxo que você já conhece: sessão, pagamento, Oráculo.
-
 O retrato das ferramentas é de 2025–2026. Nomes e adoção mudam rápido. Os princípios mudam menos.
 
 ## 1. A ideia em uma frase
